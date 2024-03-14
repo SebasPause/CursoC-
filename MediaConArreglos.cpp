@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-int main()
+int MediaConArreglos()
 {
 	int notas[5];
 	for (int i = 0; i < 5; i++) {
