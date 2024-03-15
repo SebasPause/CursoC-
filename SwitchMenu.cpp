@@ -17,7 +17,7 @@ void mostrarMensaje(int opcion) {
 	cout << "Has elegido la opcion: " << opcion << endl;
 }
 
-int main()
+int Menu()
 {
 	int opcion = 0;
 	do {
